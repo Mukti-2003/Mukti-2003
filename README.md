@@ -1,6 +1,6 @@
 # 💫 Hi there, I'm Mukti Singh!
 
-🎓 A 6th-semester B.Tech CSE student at ITER College, SOA University, Bhubaneswar, specializing in **Artificial Intelligence and Machine Learning**.I'm passionate about building impactful tech solutions with AI, Machine Learning, and Python. Currently, I’m focused on improving my problem-solving skills, developing real-world AI projects, and preparing for placements. 🚀
+🎓 A final year B.Tech CSE student at ITER College, SOA University, Bhubaneswar, specializing in **Artificial Intelligence and Machine Learning**.I'm passionate about building impactful tech solutions with AI, Machine Learning, and Python. Currently, I’m focused on improving my problem-solving skills, developing real-world AI projects, and preparing for placements. 🚀
 
 
 ## 🌐 Socials:
